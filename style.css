@@ -1,0 +1,19 @@
+body {
+    background-color: #EEFFE3;
+    color: #8eb4ac;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+button {
+    background-color: #486b76;
+    color: #EEFFE3;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #bbdac6;
+    color: #486b76;
+}
